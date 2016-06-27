@@ -1,0 +1,74 @@
+/*body{ padding: 20px;} */
+
+.container{ width: 80%;}
+
+
+.jumbotron{
+
+	background-image: url("cover.png")!important ;
+	padding-left:15em;
+}
+
+.jumbotron h1{ color:  #008CBA;
+               font-size: 3em;
+               font-weight: bold;
+            }
+
+
+.call-action {
+
+   margin-left: auto;
+   margin-right: auto;
+   float: none;
+   color:  #008CBA;
+}
+
+.jumbotron p {
+    margin-bottom: 15px;
+    font-size: 21px;
+    font-weight: 200;
+    padding-right: 1.5em;
+    color:  #008CBA;
+}
+
+
+.login-button, .signup-button{
+
+	border-radius: 40%;
+	border:2px solid #008CBA;
+	width: 150px;
+	height: 50px;
+}
+
+.login-button, .signup-button:hover{
+
+	background-color:  #008CBA;
+}
+
+
+.subscribe{ width: 300px;
+          margin-left: auto;
+          margin-right: auto;
+}
+
+.label-suscribe{ 
+       
+       width: 350px;
+       margin-bottom: 10px;
+       color:  #008CBA;
+
+  }
+
+.welcome{ 
+	      width: 330px;
+	      margin-left: auto;
+          margin-right: auto;
+          color: #008CBA;
+}   
+
+
+.login-signup{
+
+   padding: 40px;
+
+}
